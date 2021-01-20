@@ -17,5 +17,6 @@ namespace BookManager
 		public string UserName { get; set; }
 		public bool isBorrowed { get; set; }
 		public DateTime BorrowedAt { get; set; }
+
 	}
 }
